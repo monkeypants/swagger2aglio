@@ -3,3 +3,4 @@ npm-debug.log*
 coverage
 .vscode
 .test.html
+_tmp/
