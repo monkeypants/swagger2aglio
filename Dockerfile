@@ -6,4 +6,5 @@ RUN mkdir /app/
 RUN mkdir /app/indir/
 RUN mkdir /app/outdir/
 
+# touch
 #ENTRYPOINT swagger2aglio
